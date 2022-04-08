@@ -83,6 +83,8 @@ matrix[][] = {{1, 2, 3, 4},
 ```
 1 2 3 4 8 12 16 15 14 13 9 5 6 7 11 10
 ```
+![original1](https://user-images.githubusercontent.com/97151477/162397521-0ac0aa7e-acd4-4510-9b62-f40755df042f.png)
+
 
 Example 2:
 `Input:`
@@ -107,6 +109,7 @@ output for the 2nd test case will be
 You don't need to read input or print anything. Complete the function spirallyTraverse() that takes matrix, r and c as input parameters and returns a list of integers denoting the spiral traversal of matrix. 
 Question 3.-> You are given a number N. Find the total count of set bits for all numbers from 1 to N(both inclusive).
 ```
+
 
 ## Question 3.-> You are given a number N. Find the total count of set bits for all numbers from 1 to N(both inclusive).
  
